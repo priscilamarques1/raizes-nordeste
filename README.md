@@ -74,4 +74,4 @@ A API possui documentação interativa gerada com Swagger UI (OpenAPI).
 
 A imagem abaixo apresenta os endpoints implementados no projeto.
 
-![Documentação Swagger da API](docs/swagger.png/swagger.png)pronto
+![Documentação Swagger da API](docs/swagger.png/swagger.png)
