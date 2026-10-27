@@ -66,3 +66,12 @@ O projeto concentra-se em um módulo funcional do estudo de caso, com ênfase em
 8. Relatório acadêmico
 
 O relatório acadêmico apresenta a análise do projeto, a implementação realizada, o plano de testes, os resultados obtidos e as capturas de tela utilizadas como evidências.
+
+
+ 9. Documentação da API — Swagger
+
+A API possui documentação interativa gerada com Swagger UI (OpenAPI).
+
+A imagem abaixo apresenta os endpoints implementados no projeto.
+
+![Documentação Swagger da API](docs/swagger.png/swagger.png)pronto
